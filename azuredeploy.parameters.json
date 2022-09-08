@@ -8,8 +8,11 @@
     "adminPassword": {
       "value": "Yahoo@123456"
     },
-    "dnsLabelPrefix": {
-      "value": "imvmtest111"
+    "domainName": {
+      "value": "brbcloud.com"
+    },
+    "dnsPrefix": {
+      "value": "brbcloud"
     }
   }
 }
