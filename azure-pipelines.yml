@@ -24,7 +24,7 @@ steps:
     azureResourceManagerConnection: 'Visual Studio Enterprise Subscription(f13ba1dc-c21b-41bf-bc7d-1b4e8e91e6e6)'
     subscriptionId: 'f13ba1dc-c21b-41bf-bc7d-1b4e8e91e6e6'
     action: 'Create Or Update Resource Group'
-    resourceGroupName: 'quickstart-vm-dc2'
+    resourceGroupName: 'quickstart-vm-dc3'
     location: 'East US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/imranrafique384/arm-project01/main/azuredeploy.json'
